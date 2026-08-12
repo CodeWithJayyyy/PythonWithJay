@@ -21,5 +21,5 @@ print("--- Student survey Form: ---")
 #Firt survey or Survey part 1 receipt
 print(f"Student Favorite Subject: {student_survey}")
 
-
+#HI jay
 
