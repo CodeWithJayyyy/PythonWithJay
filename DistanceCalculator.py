@@ -13,4 +13,4 @@ distance = math.sqrt(x2 - x1)**2 + (y2 - y1)**2
 #User  input result or the result of the coordinated points.
 print()
 print("--- Result ---")
-print(f"The distance of the 2 points is: {distance:.2f}")
+print(f"The distance of the 2 points is: {distance:.2f}") # <- This is a format specifier 
