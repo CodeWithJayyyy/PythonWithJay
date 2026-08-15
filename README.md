@@ -2,7 +2,7 @@
 Learn python with me
 
 
-##Python Learning
+#Python Learning
 
 This repository contains my Python learning progress, exercises, and small projects.
 I'm using this repository to practice Python and keep track of what I learn.
