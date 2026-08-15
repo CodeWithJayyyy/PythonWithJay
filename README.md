@@ -1,8 +1,8 @@
 # PythonWithJay
-Learn python with me
+Learn Python with me
 
 
-#Python Learning
+# Python Learning
 
 This repository contains my Python learning progress, exercises, and small projects.
 I'm using this repository to practice Python and keep track of what I learn.
@@ -32,30 +32,29 @@ I'm using this repository to practice Python and keep track of what I learn.
 - User Product Program
 
 
-#What I have learned
+# What I Have Learned
 
-##Functions
+## Functions
 
-###Variables
-- We can use variables to store a value that could be use by the system later.
+### Variables
+- We can use variables to store a value that could be used by the system later.
 
-###User input
-- The 'input()' function allows to receive an information from the user.
+### User Input
+- The `input()` function allows us to receive information from the user.
 
-### If statements
-- If statements allow a program to make decisions based on the conditions.
+### If Statements
+- If statements allow a program to make decisions based on conditions.
 
-###Loops
+### Loops
 
-#While
-- Allows to loop repeatedly if the condition remains 'True'. it stops once the condition is 'False'.
+# While
+- Allows a loop to repeat if the condition remains `True`. It stops once the condition is `False`.
 
 
-##Key Words
+## Keywords
 
-###Break
--It stops the loop completely.
+### Break
+- It stops the loop completely.
 
-###Continue
--It skips the next iteration of a loop and then proceeds completely to the next iteration
-
+### Continue
+- It skips the current iteration of a loop and then proceeds to the next iteration.
